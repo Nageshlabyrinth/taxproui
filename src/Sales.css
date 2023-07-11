@@ -1,0 +1,70 @@
+.list {
+    font-size: 16px;
+  }
+  
+  .btn-eng {
+    background: none !important;
+    color: black !important;
+    border: none !important;
+  }
+  
+  .about a {
+    margin: 10px;
+  }
+  
+  
+  .dollar-icon {
+    background: #2B88C4;
+    border-radius: 10px;
+    padding: 15px;
+    width: 300px;
+    height: 150px;
+    color :#ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 26px;
+    
+  }
+  
+  .img {
+    vertical-align: middle;
+    border-style: none;
+    height: 400px;
+    width: 700px;
+  }
+  
+  .contactussection {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    background-color: #EEF2EE;
+    height: 250px;
+    margin-bottom: 30px;
+  }
+  
+  .heading {
+    color: #2F9DE6;
+  }
+  
+  .button {
+    height: 50px;
+  }
+  
+  /* Add margin-bottom to the first section */
+  .p-t-0 {
+    margin-bottom: 30px;
+  }
+  
+  /* Add margin-bottom to the second section */
+  .p-t-30 {
+    margin-bottom: 30px;
+  }
+  
+  /* Add margin-bottom to the third section */
+  .contactussection {
+    margin-bottom: 30px;
+  }
+  
